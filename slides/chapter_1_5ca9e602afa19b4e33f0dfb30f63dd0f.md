@@ -29,7 +29,7 @@ key: "0b64488426"
 ```
 
 `@part1`
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg
 
 
 `@script`
