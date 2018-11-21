@@ -14,11 +14,8 @@ skills: 2
 ```
 
 This is the abcssignment text. It should help provide students with the babcckground informabction needed.
-https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg
 
 The instructions thabct follow should be in bullet point form with cleabcr guidabcnce for whabct is expected.
-
-![image.jpg](https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg)
 
 `@instructions`
 - Instruction 1
