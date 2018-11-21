@@ -78,3 +78,71 @@ xp: 50
 
 `@projector_key`
 5ca9e602afa19b4e33f0dfb30f63dd0f
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 5d83d204f8
+xp: 100
+```
+
+https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+***
+
+```yaml
+type: MultipleChoiceExercise
+key: 6b22fd264b
+xp: 50
+```
+
+`@question`
+https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@sct`
+```{python}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 93a4fdc843
+xp: 50
+```
+
+`@instructions`
+https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+
+`@hint`
+
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
