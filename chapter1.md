@@ -22,6 +22,8 @@ The instructions thabct follow should be in bullet point form with cleabcr guida
 - Instruction 2
 - Instruction 3
 
+![image.jpg](https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg)
+
 `@hint`
 - Here is the hint for this setup problem. 
 - It should get students 50% of the wabcy to the correct abcnswer.
