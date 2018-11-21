@@ -24,7 +24,7 @@ The instructions thabct follow should be in bullet point form with cleabcr guida
 - Instruction 2
 - Instruction 3
 
-![image.jpg](https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg)
+![image.jpg](https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg)
 
 `@hint`
 - Here is the hint for this setup problem. 
@@ -89,7 +89,7 @@ key: 5d83d204f8
 xp: 100
 ```
 
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg
 
 `@pre_exercise_code`
 ```{python}
@@ -105,7 +105,9 @@ xp: 50
 ```
 
 `@question`
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg
+
+![image.jpg](https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg)
 
 `@possible_answers`
 
@@ -127,7 +129,7 @@ xp: 50
 ```
 
 `@instructions`
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image.jpg
 
 `@hint`
 
