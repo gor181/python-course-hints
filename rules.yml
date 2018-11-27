@@ -14,5 +14,7 @@ rules:
     course_pct_ex_code_sample_lte_reco:
         min: 0.2
     course_pct_ex_code_solution_lte_reco:
-        min: 0.2  
+        min: 0.2
+    normal_exercise_num_chars_instructions:
+        min: 50
         
