@@ -8,6 +8,7 @@ key: 5ca9e602afa19b4e33f0dfb30f63dd0f
 ```yaml
 type: "TitleSlide"
 key: "1db57b3ab4"
+hide_title: true
 ```
 
 `@lower_third`
