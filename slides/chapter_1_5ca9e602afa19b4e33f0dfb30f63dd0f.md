@@ -28,7 +28,7 @@ title: aaa
 type: "FullSlide"
 key: "0b64488426"
 hide_title: false
-use_full_width: true
+use_full_width: false
 ```
 
 `@part1`
