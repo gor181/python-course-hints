@@ -14,7 +14,7 @@ hide_title: false
 `@lower_third`
 
 name: Name Surname
-title: Instructor
+title: aaa
 
 
 `@script`
@@ -22,15 +22,17 @@ title: Instructor
 
 
 ---
-## Insert title here...
+## title
 
 ```yaml
 type: "FullSlide"
 key: "0b64488426"
+hide_title: false
+use_full_width: true
 ```
 
 `@part1`
-
+part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1
 
 
 `@script`

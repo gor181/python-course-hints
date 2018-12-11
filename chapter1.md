@@ -144,3 +144,16 @@ xp: 50
 ```{python}
 
 ```
+
+---
+
+## bla
+
+```yaml
+type: VideoExercise
+key: 33ef76b6b7
+xp: 50
+```
+
+`@projector_key`
+3055c37537ac6e32a5a7fe9a1dd1c8e0
