@@ -46,6 +46,22 @@ l from g
 
 
 ---
+## new slide added
+
+```yaml
+type: "FullCodeSlide"
+key: "0835a70ee3"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
 ## Final Slide
 
 ```yaml
