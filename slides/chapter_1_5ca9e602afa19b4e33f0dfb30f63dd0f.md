@@ -28,11 +28,17 @@ title: aaa
 type: "FullSlide"
 key: "0b64488426"
 hide_title: false
-use_full_width: false
+use_full_width: true
+code_zoom: 150
 ```
 
 `@part1`
-part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1part 1
+```r
+import a from b
+c from d
+e from ea
+l from g
+```
 
 
 `@script`
