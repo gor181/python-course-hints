@@ -51,6 +51,7 @@ l from g
 ```yaml
 type: "FullCodeSlide"
 key: "0835a70ee3"
+code_zoom: 101
 ```
 
 `@part1`
