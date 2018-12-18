@@ -22,6 +22,102 @@ title: aaa
 
 
 ---
+## Insert title here...
+
+```yaml
+type: "FullImageSlide"
+key: "79879f0e3c"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: "FullSlide"
+key: "a7d75a37bb"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: "TwoColumns"
+key: "fb3b5b2107"
+```
+
+`@part1`
+
+
+
+`@part2`
+
+
+
+`@script`
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: "TwoRowsTwoColumns"
+key: "59a2bf3f8b"
+```
+
+`@part1`
+
+
+
+`@part2`
+
+
+
+`@part3`
+
+
+
+`@part4`
+
+
+
+`@script`
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: "FullCodeSlide"
+key: "a5a26f5b23"
+```
+
+`@part1`
+
+
+
+`@script`
+
+
+
+---
 ## title
 
 ```yaml
