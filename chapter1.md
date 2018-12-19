@@ -17,7 +17,7 @@ This is the abcssignment text. It should help provide students with the babcckgr
 aa
 The instructions thabct follow should be in bullet point form with cleabcr guidabcnce for whabct is expected.
 
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
+https://assetsadatacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
 
 https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
 
