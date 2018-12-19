@@ -15,7 +15,7 @@ skills: 2
 
 This is the abcssignment text. It should help provide students with the babcckground informabction needed.
 aa
-The instructions thabct follow should be in bullet point form with cleabcr guidabcnce for whabct is expected.
+The instructions thabct follow should be in bullet poina form with cleabcr guidabcnce for whabct is expected.
 
 https://assetsadatacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
 
