@@ -13,7 +13,7 @@ hide_title: false
 
 `@lower_third`
 
-name: Name Surname
+name: Name Surnamea
 title: aaa
 
 
