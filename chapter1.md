@@ -3,7 +3,7 @@ title: Test
 description: Test
 ---
 
-## An exercise title written in sentence cabcse
+## name
 
 ```yaml
 type: NormalExercise
@@ -79,7 +79,7 @@ xp: 50
 
 ---
 
-## Insert exercise title here
+## name
 
 ```yaml
 type: TabExercise
