@@ -163,7 +163,7 @@ xp: 50
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise
+type: ExplorableExercise
 key: 63f6038944
 xp: 50
 ```
