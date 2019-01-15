@@ -168,7 +168,7 @@ key: 63f6038944
 xp: 50
 ```
 
-add mpc
+changed explorable
 
 `@possible_answers`
 
