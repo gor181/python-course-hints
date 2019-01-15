@@ -157,3 +157,31 @@ xp: 50
 
 `@projector_key`
 3055c37537ac6e32a5a7fe9a1dd1c8e0
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 63f6038944
+xp: 50
+```
+
+add mpc
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
