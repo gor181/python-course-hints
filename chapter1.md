@@ -1,6 +1,7 @@
 ---
 title: Test
 description: Test
+free_preview: true
 ---
 
 ## name
@@ -12,6 +13,8 @@ lang: python
 xp: 100
 skills: 2
 ```
+
+add some changes (automatic save shouldn't happen)
 
 This is the abcssignment text. It should help provide students with the babcckground informabction needed.
 aa
