@@ -19,3 +19,4 @@ set -e
 # mkdir -p $DATADIR
 # wget -O $DATADIR/iris.csv http://s3.amazonaws.com/assets.datacamp.com/staging/course_2406/datasets/iris.csv
 # https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+# wget -O https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
