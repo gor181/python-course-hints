@@ -9,7 +9,7 @@ set -e
 # pip3 install scikit-learn==0.20.0
 # pip3 install numpy==1.15.3 
 # pip3 install seaborn==0.9.0
-# wget -O https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
+# wget -O https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/goran.jpg
 # pip3 install bokeh==1.0.0 
 # pip3 install scipy==1.1.0
 
@@ -18,7 +18,7 @@ set -e
 
 # DATADIR=/usr/local/share/datasets
 # mkdir -p $DATADIR
-# wget -O http://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
+# wget -O http://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/goran.jpg
 # wget -O $DATADIR/iris.csv http://s3.amazonaws.com/assets.datacamp.com/staging/course_2406/datasets/iris.csv
 # https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
-# wget -O https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/goran.jpg
+# wget -O https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/goran.jpg
