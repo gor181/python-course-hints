@@ -1,6 +1,7 @@
 ---
 title: Test
 description: Test
+free_preview: true
 ---
 
 ## name
