@@ -12,7 +12,7 @@ set -e
 # wget -O https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/goran.jpg
 # pip3 install bokeh==1.0.0 
 # pip3 install scipy==1.1.0
-# https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image-3.jpg
+# https://assets.datacamp.com/development/repositories/143/datasets/17b36e432849e80ec800d3751ff95e1930683ffb/image-4.jpg
 
 # Include datasets in the image
 
