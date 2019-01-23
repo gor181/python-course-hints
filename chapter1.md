@@ -1,7 +1,6 @@
 ---
 title: ch1
 description: Test
-free_preview: true
 ---
 
 ## name
