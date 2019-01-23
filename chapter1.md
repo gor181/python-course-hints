@@ -163,16 +163,3 @@ changed explorable
 ```{python}
 
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-key: 8c47fb7688
-xp: 50
-```
-
-`@projector_key`
-5dec71097b4c1c19511b771a37bfedd7
