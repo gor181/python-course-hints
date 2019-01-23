@@ -2,7 +2,8 @@
 title: ch1
 description: Test
 free_preview: true
-attachments: {}
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/localhost/course_4277/slides/chapter1.pdf'
 ---
 
 ## name
@@ -163,3 +164,16 @@ changed explorable
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 369fdf9c2f
+xp: 50
+```
+
+`@projector_key`
+51e2733383104c3baaf12d2499900a92
