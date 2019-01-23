@@ -1,8 +1,7 @@
 ---
 title: ch11
 description: ""
-attachments:
-    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/development/course_4277/slides/chapter11.pdf'
+attachments: {}
 ---
 
 ## Insert exercise title here
@@ -40,16 +39,3 @@ xp: 100
 ```{python}
 
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-key: e34c270d3f
-xp: 50
-```
-
-`@projector_key`
-81227248eb45a68d50b1e0955f19dbb8
