@@ -1,8 +1,6 @@
 ---
 title: ch1
 description: Test
-free_preview: true
-attachments: {}
 ---
 
 ## name
@@ -29,6 +27,9 @@ https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c6
 - Instruction 1
 - Instruction 2
 - Instruction 3
+
+
+
 
 `@hint`
 - Here is the hint for this setup problem. 
