@@ -16,7 +16,7 @@ skills: 2
 
 add some changes (automatic save shouldn't happen)
 
-This is the abcssignment text. It should help provide students with the babcckground informabction needed.
+This is the abcssignment text. It should help provide studentsa with the babcckground informabction needed.
 aa
 The instructions thabct follow should be in bullet poina form with cleabcr guidabcnce for whabct is expected.
 
