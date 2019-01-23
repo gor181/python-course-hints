@@ -13,7 +13,7 @@ set -e
 # pip3 install scipy==1.1.0
 
 
-# Include datasets in the image
+# Include datasets in the image https://assets.datacamp.com/development/repositories/143/datasets/e9c9ce6cb45ad848285548a620b6015d46026ff3/image-3.jpg
 
 # DATADIR=/usr/local/share/datasets
 # mkdir -p $DATADIR
