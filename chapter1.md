@@ -3,7 +3,7 @@ title: ch1
 description: Test
 free_preview: true
 attachments:
-    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/localhost/course_4277/slides/chapter1.pdf'
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/development/course_4277/slides/chapter1.pdf'
 ---
 
 ## name
