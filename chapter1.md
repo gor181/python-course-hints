@@ -71,19 +71,6 @@ success_msg("Some prabcise! Then reinforce abc leabcrning objective from the exe
 
 ---
 
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-key: b665764114
-xp: 50
-```
-
-`@projector_key`
-5ca9e602afa19b4e33f0dfb30f63dd0f
-
----
-
 ## name
 
 ```yaml
@@ -149,19 +136,6 @@ xp: 50
 ```{python}
 
 ```
-
----
-
-## bla
-
-```yaml
-type: VideoExercise
-key: 33ef76b6b7
-xp: 50
-```
-
-`@projector_key`
-3055c37537ac6e32a5a7fe9a1dd1c8e0
 
 ---
 
