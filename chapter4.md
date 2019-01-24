@@ -2,6 +2,7 @@
 title: ch4
 description: ""
 attachments: {}
+free_preview: true
 ---
 
 ## Insert exercise title here
