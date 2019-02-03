@@ -6,6 +6,19 @@ attachments:
     slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/development/course_4277/slides/chapter1.pdf'
 ---
 
+## How to use dates & times with pandas
+
+```yaml
+type: VideoExercise
+key: 212cb812c6
+lang: python
+xp: 50
+skills: 2
+video_hls: //videos.datacamp.com/transcoded/4205_manipulating_time_series_data_python/v1/hls-ch1_1.master.m3u8
+```
+
+---
+
 ## name
 
 ```yaml
