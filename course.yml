@@ -1,4 +1,4 @@
-title: python course hints
-description: A description of the course.
-programming_language: python
-from: python-base-prod:v1.1.0
+title: "python course hints"
+description: "A description of the course.\n<script>alert('goran');</script>"
+programming_language: "python"
+from: "python-base-prod:v1.1.0"
