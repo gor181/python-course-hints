@@ -4,3 +4,4 @@ programming_language: "python"
 from: "python-base-prod:v1.1.0"
 datasets:
   README-2.md: "Readme"
+  goran.jpg: "Goran"
