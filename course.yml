@@ -6,3 +6,4 @@ programming_language: python
 from: 'python-base-prod:v1.1.0'
 datasets:
   test2.csv: test2 csv
+  test4.csv: test csv 4
