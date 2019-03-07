@@ -4,6 +4,3 @@ description: |-
   <script>alert('goran');</script>
 programming_language: python
 from: 'python-base-prod:v1.1.0'
-datasets:
-  test4.csv: test 4
-  demo space.py: Demo space bla
