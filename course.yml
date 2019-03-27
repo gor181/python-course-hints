@@ -6,3 +6,5 @@ programming_language: python
 from: 'python-base-prod:v1.1.0'
 prerequisites:
   - 58
+datasets:
+  goran.jpg: Goranset
