@@ -189,3 +189,54 @@ xp: 50
 
 `@projector_key`
 f75aca470bae72e84c80c70a46f1a8f7
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 8546b9f65a
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 82eac3ee69
+xp: 50
+```
+
+`@projector_key`
+0025656b1ec48f7d1ea993356b432471
