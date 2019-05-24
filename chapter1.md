@@ -30,13 +30,9 @@ xp: 100
 skills: 2
 ```
 
-add some changes (automatic save shouldn't happen)
+changed! 
 
-This is the abcssignment text. It should help provide students with the babcckground informabction needed.
-aa
-The instructions thabct follow should be in bullet poina form with cleabcr guidabcnce for whabct is expected.
-
-https://assets.datacamp.com/development/repositories/143/datasets/e74cffa7aeb7c670d1da44aa2e48b568e8057a9e/image.jpg
+<hr />
 
 `@instructions`
 - Instruction 1
