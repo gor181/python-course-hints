@@ -11,8 +11,8 @@ key: da6ab96e07
 ```
 
 `@lower_third`
-name: undefined
-title: undefined
+name: bkl
+title: blo
 
 `@script`
 dasjdank
