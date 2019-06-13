@@ -11,8 +11,8 @@ key: da6ab96e07
 ```
 
 `@lower_third`
-title: dadadasndasklndkals
-name: dsdsa
+name: undefined
+title: undefined
 
 `@script`
 dasjdank
@@ -39,7 +39,6 @@ cars_train, cars_test = cars.randomSplit([0.8, 0.2], seed=23)
 [79, 13]
 ``` {{3}}
 
-
 `@part2`
 ```python
 # Specify a seed for reproducibility
@@ -52,7 +51,6 @@ cars_train, cars_test = cars.randomSplit([0.8, 0.2], seed=23)
  ```out
 [79, 13]
 ``` {{3}}
-
 
 `@script`
 
@@ -78,7 +76,6 @@ cars_train, cars_test = cars.randomSplit([0.8, 0.2], seed=23)
  ```out
 [79, 13]
 ``` {{3}}
-
 
 `@part2`
 a
