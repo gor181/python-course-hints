@@ -30,7 +30,7 @@ xp: 100
 skills: 2
 ```
 
-changed! 
+changed! a
 
 <hr />
 
