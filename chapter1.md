@@ -150,34 +150,6 @@ xp: 50
 ## Insert exercise title here
 
 ```yaml
-type: ExplorableExercise
-key: 63f6038944
-xp: 50
-```
-
-changed explorable
-
-`@possible_answers`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Insert exercise title here
-
-```yaml
 type: VideoExercise
 key: 849eac42e2
 xp: 50
