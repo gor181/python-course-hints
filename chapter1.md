@@ -32,7 +32,7 @@ skills: 2
 
 changed! a
 
-<hr />
+<hr />a
 
 `@instructions`
 - Instruction 1
