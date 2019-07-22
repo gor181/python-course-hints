@@ -198,7 +198,7 @@ xp: 100
 
 ---
 
-## Insert exercise title here
+## renamed
 
 ```yaml
 type: VideoExercise
