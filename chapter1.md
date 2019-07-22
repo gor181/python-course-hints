@@ -221,3 +221,16 @@ xp: 50
 
 `@projector_key`
 1918ae7bc0ed2addf8a1e6f4699589d1
+
+---
+
+## bla
+
+```yaml
+type: VideoExercise
+key: 062f6b19f8
+xp: 50
+```
+
+`@projector_key`
+b023135a4d3e1b4dda8cbc53e6550640
