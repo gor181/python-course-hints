@@ -224,6 +224,19 @@ xp: 50
 
 ---
 
+## a new copy
+
+```yaml
+type: VideoExercise
+key: 1409af5d15
+xp: 50
+```
+
+`@projector_key`
+b0d6e9f2adf046e5dfb19af4fd24a988
+
+---
+
 ## bla
 
 ```yaml
@@ -234,3 +247,19 @@ xp: 50
 
 `@projector_key`
 b023135a4d3e1b4dda8cbc53e6550640
+
+---
+
+## ok
+
+```yaml
+type: VideoExercise
+key: 1d1090b45f
+lang: python
+xp: 50
+skills: 2
+video_hls: //videos.datacamp.com/transcoded/4205_manipulating_time_series_data_python/v1/hls-ch1_1.master.m3u8
+```
+
+`@projector_key`
+c7c9d70e54e5a3b6e5e2d9e7cbe449d8
